@@ -4,9 +4,9 @@
 We will be using this repository to store the materials and resources used in our workshops.
 
 
-**Workshop 1: [Python for Grown ups!](20160920_CBGSA_Python+for+Grownups.html)
+* **Workshop 1: [Python for Grown ups!](20160920_CBGSA_Python+for+Grownups.html)**
 
-**Workshop 2: [Learn Git and GitHub]
+* **Workshop 2: [Learn Git and GitHub]**
 
 
 
